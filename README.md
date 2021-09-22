@@ -1,3 +1,3 @@
-- 👋 Hi, I’m hz
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HZ&theme=dark&show_icons=true)
