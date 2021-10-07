@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm hz0000</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hz0000" alt="hz0000" /></a> </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
